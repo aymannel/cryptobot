@@ -1,12 +1,10 @@
 # cryptobot
-![projectimage](img/plotter.png)
+![projectimage](plotter.png)
 
-Repository for tinkering with crypto trading strategies, bot UIs and more.
+Repository for tinkering with crypto trading strategies and visualising bot performance.
 
 ## APIs
 * twleve_edata (data-retrieval)
 * yahoofin (data-retrieval)
-* yfinance (data-retrieval)
+* [yfinance](https://algotrading101.com/learn/yfinance-guide/) (data-retrieval)
 * alpaca (placing order)
-
-https://algotrading101.com/learn/yfinance-guide/
