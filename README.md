@@ -1,5 +1,5 @@
 # cryptobot
-![projectimage](plotter.png)
+![projectimage](img/plotter.png)
 
 Repository for tinkering with crypto trading strategies and visualising bot performance.
 
